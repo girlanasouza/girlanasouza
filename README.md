@@ -9,7 +9,7 @@ I'm Girlana, a young computer science student about to graduate. I'm working on 
 
 Let's connect, share ideas, and build amazing things together! 🚀
 
-# Linguagem e Ferramentas
+# Languages and Tools 
 
 </div>
 
@@ -17,6 +17,30 @@ Let's connect, share ideas, and build amazing things together! 🚀
 <div align = "center"> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,c,cpp&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=github,vscode&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=regex,py,css,html,bootstrap,c,cpp,js&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=github,vscode&perline=10&theme=light)](https://skillicons.dev)
  
 </div>
+
+# GitHub Statistics 
+
+</div>
+<p align="center">
+  <a href="https://github.com/girlanasouza">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=girlanasouza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/girlanasouza">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlanasouza&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+</a>
+</p>
+
+
