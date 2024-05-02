@@ -9,4 +9,14 @@ I'm Girlana, a young computer science student about to graduate. I'm working on 
 
 Let's connect, share ideas, and build amazing things together! 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+# Linguagem e Ferramentas
+
+</div>
+
+
+<div align = "center"> 
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,postgres&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,gcp,git,github,idea,linux&perline=10&theme=light)](https://skillicons.dev)
+ 
+</div>
