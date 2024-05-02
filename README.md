@@ -17,6 +17,6 @@ Let's connect, share ideas, and build amazing things together! 🚀
 <div align = "center"> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,bootstrap,c,cpp,github&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=github,vscode&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,c,cpp&perline=10&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=github,vscode&perline=10&theme=light)](https://skillicons.dev)
  
 </div>
