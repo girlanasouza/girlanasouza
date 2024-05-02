@@ -8,3 +8,5 @@ I'm Girlana, a young computer science student about to graduate. I'm working on 
 - ⚡ Fun fact: When I'm not coding, you'll find me immersed in epic movie sagas like Star Wars, Lord of the Rings, and Harry Potter. 🎬✨
 
 Let's connect, share ideas, and build amazing things together! 🚀
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
